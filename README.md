@@ -1,2 +1,2 @@
 # hello-world
-wekcome to git
+welcome to git
